@@ -31,3 +31,9 @@ php artisan migrate --seed
 
 php artisan serve
 npm run dev
+
+## inicio de seccion
+lo primero es registrarse mediante 
+http://127.0.0.1:8000/register
+
+y te redirecciona a la pagina de los empleados 
