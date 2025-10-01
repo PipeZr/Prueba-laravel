@@ -17,7 +17,16 @@ const filteredEmployees = computed(() => {
 
 <template>
   <div class="p-6">
-    <h1 class="text-2xl font-bold mb-4">Listado de Empleados</h1>
+    <div class="flex justify-between items-center mb-4">
+        <h1 class="text-2xl font-bold mb-4">Listado de Empleados</h1>
+
+     <button
+      @click="destroy"
+      class="px-4 py-2  bg-red-500 text-white rounded hover:bg-red-600"
+    >
+      Cerrar sesión
+    </button>
+    </div>
 
     <input
       v-model="search"
