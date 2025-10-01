@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Carlos Gómez",
+    "email": "carlos.gomez@example.com",
+    "phone": "3001234567",
+    "address": "Calle 123 #45-67, Bogotá",
+    "position": "Desarrollador Backend",
+    "salary": 2500.50,
+    "skills": ["PHP", "Laravel", "MySQL"]
+  },
+  {
+    "name": "María Rodríguez",
+    "email": "maria.rodriguez@example.com",
+    "phone": "3019876543",
+    "address": "Carrera 10 #20-30, Medellín",
+    "position": "Diseñadora UX/UI",
+    "salary": 1800.00,
+    "skills": ["Figma", "Photoshop", "Illustrator"]
+  },
+  {
+    "name": "Juan Pérez",
+    "email": "juan.perez@example.com",
+    "phone": "3102223344",
+    "address": "Av. Siempre Viva 742, Cali",
+    "position": "Ingeniero DevOps",
+    "salary": 3200.75,
+    "skills": ["AWS", "Docker", "Kubernetes"]
+  },
+  {
+    "name": "Laura Martínez",
+    "email": "laura.martinez@example.com",
+    "phone": "3124567890",
+    "address": "Calle 50 #12-34, Barranquilla",
+    "position": "Desarrolladora Frontend",
+    "salary": 2100.00,
+    "skills": ["JavaScript", "Vue.js", "CSS"]
+  },
+  {
+    "name": "Andrés López",
+    "email": "andres.lopez@example.com",
+    "phone": "3156781234",
+    "address": "Carrera 80 #15-25, Bucaramanga",
+    "position": "Analista QA",
+    "salary": 1500.00,
+    "skills": ["Selenium", "Postman", "Cypress"]
+  },
+  {
+    "name": "Sofía Ramírez",
+    "email": "sofia.ramirez@example.com",
+    "phone": "3171234567",
+    "address": "Calle 77 #45-12, Bogotá",
+    "position": "Gerente de Proyecto",
+    "salary": 4000.00,
+    "skills": ["Gestión de Proyectos", "Scrum", "Kanban"]
+  },
+  {
+    "name": "Diego Torres",
+    "email": "diego.torres@example.com",
+    "phone": "3189876543",
+    "address": "Carrera 5 #33-20, Medellín",
+    "position": "Desarrollador Fullstack",
+    "salary": 2800.50,
+    "skills": ["JavaScript", "Node.js", "React", "PHP"]
+  },
+  {
+    "name": "Valentina Sánchez",
+    "email": "valentina.sanchez@example.com",
+    "phone": "3192223344",
+    "address": "Av. Las Américas 120, Cali",
+    "position": "Data Scientist",
+    "salary": 3500.75,
+    "skills": ["Python", "Pandas", "Machine Learning"]
+  },
+  {
+    "name": "Miguel Ángel",
+    "email": "miguel.angel@example.com",
+    "phone": "3204567890",
+    "address": "Calle 12 #34-56, Barranquilla",
+    "position": "Administrador de Sistemas",
+    "salary": 2300.00,
+    "skills": ["Linux", "Windows Server", "Redes"]
+  },
+  {
+    "name": "Camila Fernández",
+    "email": "camila.fernandez@example.com",
+    "phone": "3216781234",
+    "address": "Carrera 90 #10-20, Bucaramanga",
+    "position": "Especialista SEO",
+    "salary": 1600.00,
+    "skills": ["SEO", "Google Analytics", "Marketing Digital"]
+  },
+  {
+    "name": "Fernando Castillo",
+    "email": "fernando.castillo@example.com",
+    "phone": "3223456789",
+    "address": "Calle 23 #50-60, Bogotá",
+    "position": "Ingeniero de Redes",
+    "salary": 2700.00,
+    "skills": ["Cisco", "Firewall", "VPN"]
+  },
+  {
+    "name": "Natalia Herrera",
+    "email": "natalia.herrera@example.com",
+    "phone": "3239876543",
+    "address": "Carrera 15 #25-30, Medellín",
+    "position": "Desarrolladora Mobile",
+    "salary": 2900.50,
+    "skills": ["Flutter", "Dart", "iOS", "Android"]
+  },
+  {
+    "name": "Ricardo Moreno",
+    "email": "ricardo.moreno@example.com",
+    "phone": "3242223344",
+    "address": "Av. 4 Sur #50, Cali",
+    "position": "Arquitecto de Software",
+    "salary": 4200.75,
+    "skills": ["Microservicios", "Design Patterns", "AWS"]
+  },
+  {
+    "name": "Paula Jiménez",
+    "email": "paula.jimenez@example.com",
+    "phone": "3254567890",
+    "address": "Calle 60 #12-40, Barranquilla",
+    "position": "Community Manager",
+    "salary": 1800.00,
+    "skills": ["Redes Sociales", "Contenido Digital", "Marketing"]
+  },
+  {
+    "name": "Andrés Medina",
+    "email": "andres.medina@example.com",
+    "phone": "3266781234",
+    "address": "Carrera 100 #15-35, Bucaramanga",
+    "position": "Analista de Datos",
+    "salary": 2500.00,
+    "skills": ["Excel", "SQL", "Power BI"]
+  }
+]
